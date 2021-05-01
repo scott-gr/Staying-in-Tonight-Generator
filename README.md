@@ -47,9 +47,9 @@ The following screenshots demonstrates the application functionality on desktop 
 
 ## Links
 
-[GitHub repository](https://github.com/cheacliatt/Staying-in-Tonight-Generator "Repository")
+[GitHub repository](https://github.com/scott-gr/Staying-in-Tonight-Generator "Repository")
 
-[Link to Deployed Staying-In-Tonight Application](https://cheacliatt.github.io/Staying-in-Tonight-Generator/ "Pages")
+[Link to Deployed Staying-In-Tonight Application](https://scott-gr.github.io/Staying-in-Tonight-Generator/ "Pages")
 
 ## Credits
 
